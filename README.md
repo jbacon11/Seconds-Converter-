@@ -1,2 +1,4 @@
-# Seconds-Converter-
-time converter for seconds
+# Seconds-Converter
+
+This python program converts time for seconds
+
